@@ -35,6 +35,16 @@ Nezha is an expanstion board for micro:bit with multuple functions available. It
 
 download link:[https://github.com/elecfreaks/learn-en/raw/master/microbitExtensionModule/file/nezha-Main-Parts-Introduction.pdf](https://github.com/elecfreaks/learn-en/raw/master/microbitExtensionModule/file/nezha-Main-Parts-Introduction.pdf)
 
+## Connections
+M1 - M4
+2.54mm KF2510 2-pin female connectors, aka 2510-02, Molex KK.
+
+J1 - J4
+RJ9 (telephone handset) male connectors
+
+IIC
+Dupont
+
 ## Add Package
 ---
 
